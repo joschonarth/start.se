@@ -23,7 +23,7 @@ O objetivo deste projeto foi criar uma plataforma que facilite a conexão entre 
   <a href="assets/start-se-ver-empresa.png"><img src="assets/start-se-ver-empresa.png" width="400"/></a>
 </p>
 
-<p align="right" style="font-size: 0.8em;">
+<p align="right" style="font-size: 10px;">
   <a href="assets/">Para mais imagens do projeto.</a>
 </p>
 
