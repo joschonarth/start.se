@@ -23,6 +23,7 @@ O objetivo deste projeto foi criar uma plataforma que facilite a conexão entre 
   <a href="assets/start-se-ver-empresa.png"><img src="assets/start-se-ver-empresa.png" width="400"/></a>
 </p>
 
+[Para mais imagens do projeto.](assets/)
 
 ### Tecnologias Utilizadas
 
