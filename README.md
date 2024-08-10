@@ -9,7 +9,6 @@ Este repositório contém o projeto START.SE, desenvolvido na PYSTACK WEEK 11.0.
 - [Configuração do Ambiente](#configuração-do-ambiente)
 - [Instalação e Execução](#instalação-e-execução)
 
-
 ## Sobre o Projeto
 
 O objetivo deste projeto foi criar uma plataforma que facilite a conexão entre startups em busca de investidores e investidores interessados em novos empreendimentos. O sistema foi desenvolvido com Python e Django, utilizando boas práticas de desenvolvimento para garantir um código limpo e eficiente.
@@ -83,3 +82,11 @@ python manage.py runserver
 **4. Acesse a Aplicação:**
 
 Abra o navegador e acesse http://127.0.0.1:8000/ para ver a aplicação em funcionamento.
+
+
+## Contato 📞
+
+<div>
+    <a href="https://www.linkedin.com/in/joschonarth/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+    <a href="mailto:joschonarth@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+</div>
