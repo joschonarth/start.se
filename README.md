@@ -17,7 +17,7 @@ O objetivo deste projeto foi criar uma plataforma que facilite a conexão entre 
 <p align="center">
   <a href="assets/start-se-login.png"><img src="assets/start-se-login.png" width="300"/></a>
   <a href="assets/start-se-cadastro.png"><img src="assets/start-se-cadastro.png" width="300"/></a>
-  <a href="assets/start-se-cadastrar-empresa.png"><img src="assets/start-se-cadastrar-empresa.png" width="300"/></a><br/>
+  <a href="assets/start-se-cadastrar-empresa.png"><img src="assets/start-se-cadastrar-empresa.png" width="300"/></a>
   <a href="assets/start-se-listar-empresas.png"><img src="assets/start-se-listar-empresas.png" width="300"/></a>
   <a href="assets/start-se-empresa2.png"><img src="assets/start-se-empresa2.png" width="300"/></a>
   <a href="assets/start-se-ver-empresa.png"><img src="assets/start-se-ver-empresa.png" width="300"/></a>
