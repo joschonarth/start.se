@@ -13,6 +13,18 @@ Este repositório contém o projeto START.SE, desenvolvido na PYSTACK WEEK 11.0.
 
 O objetivo deste projeto foi criar uma plataforma que facilite a conexão entre startups em busca de investidores e investidores interessados em novos empreendimentos. O sistema foi desenvolvido com Python e Django, utilizando boas práticas de desenvolvimento para garantir um código limpo e eficiente.
 
+
+<p align="center">
+  <a href="assets/start-se-login.png"><img src="assets/start-se-login.png" width="250"/></a>
+  <a href="assets/start-se-cadastro.png"><img src="assets/start-se-cadastro.png" width="250"/></a>
+  <a href="assets/start-se-cadastrar-empresa.png"><img src="assets/start-se-cadastrar-empresa.png" width="250"/></a><br/>
+  <a href="assets/start-se-login.png"><img src="assets/start-se-login.png" width="250"/></a>
+  <a href="assets/start-se-login.png"><img src="assets/start-se-login.png" width="250"/></a>
+  <a href="assets/start-se-login.png"><img src="assets/start-se-login.png" width="250"/></a>
+</p>
+
+
+
 ### Tecnologias Utilizadas
 
 [<img src="https://skillicons.dev/icons?i=python&theme=dark" width="50">](https://www.python.org/)
