@@ -81,4 +81,5 @@ python manage.py runserver
 ```
 
 **4. Acesse a Aplicação:**
+
 Abra o navegador e acesse http://127.0.0.1:8000/ para ver a aplicação em funcionamento.
