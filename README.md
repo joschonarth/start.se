@@ -29,11 +29,11 @@ O objetivo deste projeto foi criar uma plataforma que facilite a conexão entre 
 
 ## 🛠️ Tecnologias Utilizadas
 
-* [<img src="https://skillicons.dev/icons?i=python&theme=dark" width="30" align="center">]() **Python**: Linguagem de programação utilizada para desenvolver a lógica do backend do projeto, permitindo uma integração fluida com o Django e garantindo um código limpo e eficiente.
+* [<img src="https://skillicons.dev/icons?i=python&theme=dark" width="30" align="center">](https://www.python.org/) **Python**: Linguagem de programação utilizada para desenvolver a lógica do backend do projeto, permitindo uma integração fluida com o Django e garantindo um código limpo e eficiente.
 
-* [<img src="https://skillicons.dev/icons?i=django&theme=dark" width="30" align="center">]() **Django**: Framework web de alto nível que facilita a construção da plataforma. Ele fornece recursos como ORM (Object-Relational Mapping) para interagir com o banco de dados, sistema de autenticação de usuários e uma arquitetura MTV (Model-Template-View) que organiza o código de forma intuitiva.
+* [<img src="https://skillicons.dev/icons?i=django&theme=dark" width="30" align="center">](https://www.djangoproject.com/) **Django**: Framework web de alto nível que facilita a construção da plataforma. Ele fornece recursos como ORM (Object-Relational Mapping) para interagir com o banco de dados, sistema de autenticação de usuários e uma arquitetura MTV (Model-Template-View) que organiza o código de forma intuitiva.
 
-* [<img src="https://skillicons.dev/icons?i=sqlite&theme=dark" width="30" align="center">]() **SQLite**: Banco de dados leve e embutido utilizado durante o desenvolvimento e testes do projeto, permitindo armazenar informações sobre startups e investidores de forma simples e eficaz.
+* [<img src="https://skillicons.dev/icons?i=sqlite&theme=dark" width="30" align="center">](https://www.sqlite.org/) **SQLite**: Banco de dados leve e embutido utilizado durante o desenvolvimento e testes do projeto, permitindo armazenar informações sobre startups e investidores de forma simples e eficaz.
 
 
 ## ⚙️ Pré-requisitos
@@ -42,7 +42,7 @@ Antes de começar, você precisará ter o Python e o pip instalados em sua máqu
 
 ## 🔧 Configuração do Ambiente
 
-### Criar um Ambiente Virtual
+### 💻 Criar um Ambiente Virtual
 
 Para criar um ambiente virtual, execute o comando correspondente ao seu sistema operacional:
 
@@ -56,7 +56,7 @@ Para criar um ambiente virtual, execute o comando correspondente ao seu sistema 
   python3 -m venv venv
   ```
 
-### Ativar o Ambiente Virtual
+### 💻 Ativar o Ambiente Virtual
 
 Após criar o ambiente virtual, ative-o com o comando apropriado para o seu sistema operacional:
 
